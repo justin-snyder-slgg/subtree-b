@@ -6,3 +6,5 @@ pickles
 blarg
 pointless
 message
+green goblin
+red goblin

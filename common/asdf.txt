@@ -2,7 +2,8 @@ waffles
 zero
 one
 plastic
+specular highlights
 gorilla suit
-ghost hunters
+ghost hunter
 Stephen Spielberg
 Stephen King
